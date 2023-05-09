@@ -1,0 +1,45 @@
+
+a{
+    text-decoration: none;
+   
+color: aliceblue;
+height: 75px;
+display: flex;
+
+align-items: center;
+justify-content: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+ 
+
+
+
+
+}
+body{
+    background:linear-gradient(rgb(9, 10, 71),rgb(102, 16, 88));
+height: 100vh;
+}
+.aaa{
+ 
+ 
+  padding: -5px -20px;
+  border-radius: 50px;
+  justify-content: center;
+}
+a:hover{
+transform: scale(2);
+
+color: rgb(168, 35, 139);
+
+
+transition: ;
+
+}
+h1{
+  color: crimson;
+  font-family: , Arial, sans-serif;
+}
+
+
